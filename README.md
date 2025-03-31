@@ -48,9 +48,10 @@ Emotion Change Reasoning in Multimodal Dialogues
 -	顾问委员会成员：
 
 ## 会务组成员
+吴国正（wuguozheng@ruc.edu.cn) 张鑫洁（zhangxinjie827@ruc.edu.cn）、黄兆培（huangzhaopei@ruc.edu.cn）
 
 ## 联系方式
-如有疑问，请致信评测会务组：2021201543@ruc.edu.cn
+如有疑问，请致信评测会务组：wuguozheng@ruc.edu.cn
 
 ## 参考资料与文献
 ```bibtex
