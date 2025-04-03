@@ -45,7 +45,6 @@ Emotion Change Reasoning in Multimodal Dialogues
 ## 评委会成员
 -	主席：金琴
 -	评测委员会成员：赵金明
--	顾问委员会成员：
 
 ## 会务组成员
 吴国正（wuguozheng@ruc.edu.cn) 张鑫洁（zhangxinjie827@ruc.edu.cn）、黄兆培（huangzhaopei@ruc.edu.cn）
