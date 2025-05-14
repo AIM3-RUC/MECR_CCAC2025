@@ -40,7 +40,7 @@ Emotion Change Reasoning in Multimodal Dialogues
 | 提交截止                         | 2025年6月中旬      |
 | 比赛结果公布                     | 2025年6月下旬      |
 | CCAC2025大会召开及颁奖典礼       | 2025年7月18日-20日 |
-
+训练集、验证集数据均已通过报名邮箱发布。
 
 ## 评委会成员
 -	主席：金琴
@@ -75,3 +75,4 @@ Emotion Change Reasoning in Multimodal Dialogues
 ## 致谢
 - 主办方：中国中文信息学会情感计算专委会
 - 承办方：中国人民大学、启元实验室
+
